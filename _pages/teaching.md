@@ -2,11 +2,27 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Education is not preparation for life; education is life itself - John Dewey.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Instructor
 
-Organize your courses by years, topics, or universities, however you like!
+**Fall 2023 - First Year Seminar in Nature Inspired Design in Computing, UMASS Amherst**: <a href="https://arjun23496.github.io/FYS-NID/">https://arjun23496.github.io/FYS-NID/</a>
+
+
+### Teaching Assistant
+
+- Neural Networks: From Neuroscience to the forefront of AI: Spring 2023; 
+- Introduction to Computing: Spring 2023; 
+- Web Technology: Spring 2022; 
+- Systems: Fall 2021; 
+- Mobile Health Sensing and Analytics: Spring 2021; 
+- Programming Methodologies: Fall 2020;
+- Machine Learning: Spring 2020; 
+- Web Technology Spring, Fall 2019;
+
+### Workshops
+
+**2016 - Linux Workshop**: <a href="https://github.com/arjun23496/Linux_Workshop">https://github.com/arjun23496/Linux_Workshop</a>
