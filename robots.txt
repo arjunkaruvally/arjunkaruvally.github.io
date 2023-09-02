@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://arjun23496.github.io/profile/sitemap.xml
+Sitemap: https://arjun23496.github.io/sitemap.xml
