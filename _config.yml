@@ -8,7 +8,7 @@ first_name: Arjun
 last_name: Karuvally
 email: arjun.k018@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  From Minds to Machine and Beyond
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -46,6 +46,11 @@ repo_trophies:
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 rss_icon: true
+feed:
+  categories:
+    - news
+    - posts
+    - projects
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -78,7 +83,7 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 linkedin_username: arjunksuresh # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: YfurSO4AAAAJ # your Google Scholar ID
-semanticscholar_id: Arjun-Karuvally # your Semantic Scholar ID
+semanticscholar_id: Arjun-Karuvally/35954303 # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-8298-1409 # your ORCID ID
 medium_username: # your Medium username
@@ -93,7 +98,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: 5092 # your DBLP profile url
+dblp_url: https://dblp.org/pid/215/5092.html # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
