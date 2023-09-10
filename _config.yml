@@ -8,7 +8,7 @@ first_name: Arjun
 last_name: Karuvally
 email: arjun.k018@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  "Coming Soon..."
+  "Chaos Crafted: Shaping Order from Disorder"
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -118,7 +118,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-042B7LYMV3 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -129,7 +129,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 # blog_name: "<i>Cerebral Spectrum: From Minds to Machines and Beyond</i>" # blog_name will be displayed in your blog page
-blog_name: Coming Soon...
+blog_name: "<i>Chaos Crafted: Shaping Order from Disorder</i>"
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: unraveling the complexities of memory, intelligence, and nature.
 permalink: /blog/:year/:title/
@@ -362,7 +362,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_cronitor_analytics: false  # enables cronitor RUM analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
