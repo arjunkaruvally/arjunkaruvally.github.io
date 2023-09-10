@@ -9,7 +9,7 @@ nav_order: 5
 
 # Instructor
 
-**Fall 2023 - First Year Seminar in Nature Inspired Design in Computing, UMASS Amherst**: <a href="https://arjunkaruvally.github.io/FYS-NID/">https://arjun23496.github.io/FYS-NID/</a>
+**Fall 2023 - First Year Seminar in Nature Inspired Design in Computing, UMASS Amherst**: <a href="https://arjunkaruvally.github.io/FYS-NID/">https://arjunkaruvally.github.io/FYS-NID/</a>
 
 
 ### Teaching Assistant
