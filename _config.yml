@@ -8,7 +8,7 @@ first_name: Arjun
 last_name: Karuvally
 email: arjun.k018@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  "Chaos Crafted: Shaping Order from Disorder"
+  "Chaos Crafted"
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -129,7 +129,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 # blog_name: "<i>Cerebral Spectrum: From Minds to Machines and Beyond</i>" # blog_name will be displayed in your blog page
-blog_name: "<i>Chaos Crafted: Shaping Order from Disorder</i>"
+blog_name: "<i>Chaos Crafted</i>"
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: unraveling the complexities of memory, intelligence, and nature.
 permalink: /blog/:year/:title/
