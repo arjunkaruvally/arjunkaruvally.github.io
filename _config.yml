@@ -271,8 +271,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['memory', 'intelligence', 'AI', 'mechanistic-interpretability'] # these tags will be displayed on the front page of your blog
-display_categories: ['bio', 'math', 'interpretability', 'philosophy'] # these categories will be displayed on the front page of your blog
+display_tags: ['memory', 'intelligence'] # these tags will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
